@@ -1,0 +1,17 @@
+input{
+    border-radius: 8px;
+    border-color: yellow;
+    font-size: 25px;
+    color: rebeccapurple;
+}
+.addBtn{
+    border-radius: 8px;
+    font-size: 25px;
+    color: rebeccapurple;
+    margin-left: 10px;
+    background-color: gray;
+    color: white;
+}
+.addBtn:hover{
+    background-color: rgb(180, 136, 221);
+}
